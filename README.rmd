@@ -30,7 +30,7 @@ Pull all files, delete local README.md file, create a README.rmd file, edit the 
 Whenever I try to *knit* the file, RStudio tells me that there're some updates required for the package, and starts the downloading and installing processes. However, after that, there's still no files be created and when I tried to knit again, it promts me to do the downloading and installing again.
 This hasn't been solved when I submitted the hw.
 
-1. Still have to submit and push
+1. Still have to submit and push!
 
 
 ## Reflections
